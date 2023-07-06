@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Comprehension.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Fixing_an_interface_implementation.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Getting_familar_with_implementing_Interfaces.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Getting_rid_of_copy-pasting__constructing_an_interface.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Implementing_an_interface.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Inside_an_interface.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Introduction_to_Interfaces-Theory.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Additional_elements.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Division_problem.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Filter.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Little_more_and_little_less.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-MutableSet_properties.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Remove_it_all.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Subtraction.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-Theory.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Mutable_Set-To_clear_or_not_to_clear.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Combinination.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Comprehension.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Element_problem.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Happy_birthday.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Subtraction.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-The_truth_is.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Theory.main" target="15" />
+      <module name="Words_Virtuoso.Topics-Set-Two_sides_of_the_same.main" target="15" />
+      <module name="Words_Virtuoso.util.main" target="15" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-classes-kotlin.main" target="15" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-reports-tests.main" target="15" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-test-results.main" target="15" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task-build-tmp.main" target="15" />
+      <module name="Words_Virtuoso.Words_Virtuoso-task.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

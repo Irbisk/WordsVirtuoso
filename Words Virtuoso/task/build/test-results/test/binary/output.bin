@@ -1,0 +1,17 @@
+[1;31m
+Start test 1[0m
+Input the words file:
+> noexist.txt
+2Error: The words file noexist.txt doesn't exist.
+[1;31m
+Start test 2[0m
+Input the words file:
+> words.txt
+The input is a valid string.
+The input is a valid string.
+The input is a valid string.
+The input is a valid string.
+The input is a valid string.
+The input is a valid string.
+The input is a valid string.
+All words are valid!
